@@ -1,0 +1,9 @@
+https://google.com
+https://github.com
+https://twitter.com
+https://stackoverflow.com
+https://golang.org
+https://mail.ru
+https://yandex.ru
+https://vk.com
+https://www.ozon.ru
